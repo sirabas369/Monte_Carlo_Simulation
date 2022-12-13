@@ -12,4 +12,5 @@ I have bulit a model which assumes that at each time step the price of the stock
 
 # Distribution of final prices for all simulations
 ![Histogram](https://user-images.githubusercontent.com/106699115/207419513-9b7de238-e437-4699-880a-56d311fe6c12.png)
+
 This tends to a perfect normal distribution at infinite simulations.
